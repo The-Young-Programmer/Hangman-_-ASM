@@ -5,14 +5,16 @@ Hangman Game in Assembly Language [EMU 8086]
 Hangman is a paper and pencil guessing game for two or more players. 
 One player thinks of a word, 
 phrase or sentence and the other tries to guess it by suggesting letters within a certain number of guesses. 
-<a href="https://en.m.wikipedia.org/wiki/Hangman_(game)" target="_blank">wikipedia </a>
+<a href="https://en.m.wikipedia.org/wiki/Hangman_(game)" target="_blank"> Wikipedia </a>
 
   
 ## Compiling and Launching The Program
 
 ### GNU/LINUX:
 
-For compiling and launching HANGMAN on Linux, 
+For compiling and launching HANGMAN on Linux
+check out this <a href="https://youtu.be/FjR4xIp9dww" target="_blank"> Video </a> 
+
 you will have to install
 
             * WINE <http://www.winehq.org/>

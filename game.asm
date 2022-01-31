@@ -1,9 +1,32 @@
-
-
-
-
-
-
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;      __   __  _______  __    _  _______  __   __  _______  __    _          ;;
+;;     |  | |  ||   _   ||  |  | ||       ||  |_|  ||   _   ||  |  | |         ;;
+;;     |  |_|  ||  |_|  ||   |_| ||    ___||       ||  |_|  ||   |_| |         ;;
+;;     |       ||       ||       ||   | __ |       ||       ||       |         ;;
+;;     |       ||       ||  _    ||   ||  ||       ||       ||  _    |         ;;
+;;     |   _   ||   _   || | |   ||   |_| || ||_|| ||   _   || | |   |         ;;
+;;     |__| |__||__| |__||_|  |__||_______||_|   |_||__| |__||_|  |__|         ;;
+;;                                                                             ;;
+;;                                                                             ;;
+;;  HANGMAN - An implementation of the Hang Man game in assembly (Emu8086)     ;;
+;;                                                                             ;;
+;;  Created by The Young Programmer [TYP 💻] in 2022                           ;;
+;;  Created by The Young Programmer [TYP 💻] in 2022                           ;;
+;;  Created by The Young Programmer [TYP 💻] in 2022                           ;;
+;;  Created by The Young Programmer [TYP 💻] in 2022                           ;;
+;;                                                                             ;;           
+;;                                                                             ;;
+;;  HangMan game is free software: I value keeping my site open source,        ;;
+;;  but as you all know, PLAGIARISM IS BAD. It's always disheartening          ;;
+;;  whenever I find that someone has copied my code without giving me credit   ;;
+;;  I spent a lot of time and effort building this game.                       ;;
+;;  All I ask of you all is to not claim this effort as your own.              ;;
+;;  You can redistribute it and/or modify.                                     ;;
+;;                                                                             ;;
+;;            Please give me proper credit by linking back to                  ;;
+;;     https://github.com/The-Young-Programmer/Hangman-_-ASM. Thanks!          ;;
+;;                                                                             ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;;
 ;; Contains the game functions.

@@ -60,6 +60,6 @@ Open the main.asm file with      <a href="https://emu8086-microprocessor-emulato
 ## NOTE 
 
 For sponsorship, errors and more Programming game 🎮
-       <a href="the-young-programmer-team@gmail.com" target="_blank"> Click Here </a>
+       <a href="the.young.programmer.team@gmail.com" target="_blank"> Click Here </a>
 
 

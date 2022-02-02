@@ -18,7 +18,8 @@ Click here to know more about the 👉    <strong> <a href="https://en.m.wikiped
   You can redistribute it or modify it.                                     
                                                                        
   Please give me proper credit by linking back to                  
-                                                                             
+                                      <a href="https://github.com/The-Young-Programmer/Hangman-_-ASM" target="_blank"> The Young Programmer [TYP 💻] </a> Thanks!          
+                                               
   
   
 ## Compiling and Launching The Program
